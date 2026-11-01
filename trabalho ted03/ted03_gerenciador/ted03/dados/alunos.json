@@ -1,0 +1,5 @@
+[
+    {"matricula": "00321", "nome": "Beatriz Fontenele", "curso": "Engenharia de Software", "nota": 9.1, "bolsista": true},
+    {"matricula": "00654", "nome": "Thiago Sá", "curso": "Ciência da Computação", "nota": 7.4, "bolsista": false},
+    {"matricula": "00987", "nome": "Luíza Pêgo", "curso": "Sistemas de Informação", "nota": 8.0, "bolsista": false, "observacao": "Transferida em 2026"}
+]
